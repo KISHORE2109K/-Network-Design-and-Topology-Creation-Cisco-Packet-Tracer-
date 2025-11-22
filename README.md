@@ -77,11 +77,13 @@ Switch to Simulation Mode to observe the packet path and routing behavior
 
 ## Output
 
-<img width="975" height="500" alt="image" src="https://github.com/user-attachments/assets/cbaa6f3d-996e-4894-8edb-0d4dccd87775" />
-<img width="972" height="497" alt="image" src="https://github.com/user-attachments/assets/810c5a12-b9c9-466f-87d0-a92becf61542" />
-<img width="1036" height="300" alt="image" src="https://github.com/user-attachments/assets/081df394-f4bc-455e-b2c5-09ef9e50d57f" />
-<img width="495" height="481" alt="image" src="https://github.com/user-attachments/assets/ac2d70b0-2890-40e5-a6e0-af00f0fb45d8" />
-<img width="500" height="497" alt="image" src="https://github.com/user-attachments/assets/31a4adfb-8a32-4849-92a5-0312143aa504" />
+<img width="1786" height="732" alt="image" src="https://github.com/user-attachments/assets/4da8f119-99cf-41ba-b1ae-53a1a1709725" />
+
+<img width="1613" height="403" alt="image" src="https://github.com/user-attachments/assets/06ed641e-5fa0-4e0e-94e0-8207f04db618" />
+
+<img width="745" height="757" alt="image" src="https://github.com/user-attachments/assets/97c7f8ed-9b31-449e-852e-6adba133f959" />
+
+<img width="742" height="742" alt="image" src="https://github.com/user-attachments/assets/4aa50b37-a7de-41cb-91d8-c72a3febd2cf" />
 
 ## Result
 All routers and end devices were successfully configured, and full connectivity was achieved across the network. Ping tests confirmed that communication between all LANs and across WAN links was functioning correctly.
